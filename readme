@@ -1,0 +1,23 @@
+Nama aplikasi = Notikasi Subuh
+
+Deskripsi aplikasi = Membuat Aplikasi untuk membuat notifikasi yang kita inginkan dengan menggunakan API Notification 
+dengan menentukan judul notifikasi yang ingin dibuat,Pembahasan yang dibuat dan isi dari notifikasi tersebut.
+
+package :   
+    "expo": "~44.0.0",
+    "expo-status-bar": "~1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "0.17.1",
+    "expo-constants": "~13.0.2",
+    "expo-permissions": "~13.1.1",
+    "expo-notifications": "~0.14.0",
+    "expo-updates": "~0.11.7"
+
+link apk : https://expo.dev/artifacts/c75f8f83-2c60-48d3-8f17-d47eb7611c10
+
+cara install aplikasi : 
+1. akses link apk diatas
+2. setelah link diakses maka akan mendownload apk
+3. setelah download selesai maka aplikasi sudah siap diinstall
